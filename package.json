@@ -1,0 +1,24 @@
+{
+  "name": "resume-markdown-converter",
+  "version": "1.0.0",
+  "description": "Command line tool to convert resume.md to HTML",
+  "main": "markdown-converter.js",
+  "scripts": {
+    "convert": "node markdown-converter.js",
+    "debug": "node --inspect-brk markdown-converter.js",
+    "serve": "http-server -o"
+  },
+  "keywords": [
+    "resume",
+    "markdown",
+    "html"
+  ],
+  "author": "Mark Good",
+  "license": "MIT",
+  "dependencies": {
+    "jsdom": "^22.1.0"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
