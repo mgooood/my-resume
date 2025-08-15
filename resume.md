@@ -1,5 +1,5 @@
 # Mark Good
-## FRONT-END WEB DEVELOPER | SPECIALIZING IN UI DEVELOPMENT FOR CMS-DRIVEN WEBSITES
+## FRONT-END DEVELOPER | SPECIALIZING IN UI DEVELOPMENT FOR CMS-DRIVEN WEBSITES
 
 Arlington, Virginia, United States  
 [Your Email] | [Your Phone] | [Optional LinkedIn URL]
@@ -7,7 +7,7 @@ Arlington, Virginia, United States
 ---
 
 ## PROFESSIONAL SUMMARY
-Experienced front-end web developer with many years creating intuitive, cross-browser compatible, and responsive user interfaces using HTML, CSS, and JavaScript. Specialized in developing UI components for content management systems that enhance user experience while meeting organizational goals. Known for reliability, attention to detail, and problem-solving skills when collaborating with designers, backend developers, and stakeholders. I've been studying React and am looking for opportunities to gain hands-on experience with it in a professional setting.
+Experienced front-end developer with many years creating intuitive, cross-browser compatible, and responsive user interfaces using HTML, CSS, and JavaScript. Specialized in developing UI components for content management systems that enhance user experience while meeting organizational goals. Known for reliability, attention to detail, and problem-solving skills when collaborating with designers, backend developers, and stakeholders. I've been studying React and am looking for opportunities to gain hands-on experience with it in a professional setting.
 
 ---
 
@@ -45,7 +45,7 @@ Experienced front-end web developer with many years creating intuitive, cross-br
 - Structured HTML semantically for accessibility and best practices
 - Created HTML prototypes and integrated them into Ember and React templates
 
-### FRONT-END WEB DEVELOPER
+### FRONT-END DEVELOPER
 **NavigationArts** | McLean, Virginia | July 2010 - May 2014
 
 - Developed HTML, CSS, and JavaScript based on project requirements and design specifications
@@ -54,7 +54,7 @@ Experienced front-end web developer with many years creating intuitive, cross-br
 - Built HTML UI components from Illustrator files
 - Implemented responsive layouts for optimal user experience across devices
 
-### FRONT-END WEB DEVELOPER
+### FRONT-END DEVELOPER
 **L3 Technologies - Communication Systems-East** | 2007 - December 2009
 
 - Developed front-end code for Trans-Regional Websites for the Department of Defense
