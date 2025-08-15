@@ -329,6 +329,21 @@ main {
   margin-bottom: 0;
 }
 
+.experience-company-name {
+  font-weight: 700;
+}
+
+.experience-company-location {
+  margin-left: 0.5rem;
+}
+
+/* Add a pipe between name and location */
+.experience-company-location:before {
+  content: '|';
+  margin: 0 0.5rem 0 0;
+  opacity: 0.7;
+}
+
 .experience-period, .education-period, .certification-date {
   font-size: var(--font-size-small);
   color: var(--text-very-muted);

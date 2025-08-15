@@ -7,7 +7,7 @@ Arlington, Virginia, United States
 ---
 
 ## PROFESSIONAL SUMMARY
-Experienced front-end developer with many years creating intuitive, cross-browser compatible, and responsive user interfaces using HTML, CSS, and JavaScript. Specialized in developing UI components for content management systems that enhance user experience while meeting organizational goals. Known for reliability, attention to detail, and problem-solving skills when collaborating with designers, backend developers, and stakeholders. I've been studying React and am looking for opportunities to gain hands-on experience with it in a professional setting.
+Experienced front-end developer with many years creating intuitive, cross-browser compatible, and responsive user interfaces using HTML, CSS, and JavaScript. Specializes in developing UI components for content management systems that enhance user experience while meeting organizational goals. Known for reliability, attention to detail, and problem-solving skills when collaborating with designers, backend developers, and stakeholders. Currently studying React and seeking opportunities to gain hands-on experience with it in a professional setting.
 
 ---
 

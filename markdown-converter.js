@@ -278,7 +278,11 @@ function updateExperience(document, markdown) {
         
         // Create company and location element
         const companyP = document.createElement('p');
+        const companySpanName = document.createElement('span');
+        const companySpanLocation = document.createElement('span');
         companyP.className = 'experience-company';
+        companySpanName.className = 'experience-company-name';
+        companySpanLocation.className = 'experience-company-location';
         
         // If there's a time period (last part after pipe)
         if (parts.length > 1) {
@@ -290,7 +294,10 @@ function updateExperience(document, markdown) {
           const locationParts = filteredLocationParts.join(' | ').trim();
           
           // Company and location - handle pipe properly
-          companyP.textContent = locationParts ? `${companyName} | ${locationParts}` : companyName;
+          companySpanName.textContent = companyName;
+          companySpanLocation.textContent = locationParts;
+          companyP.appendChild(companySpanName);
+          companyP.appendChild(companySpanLocation);
           jobDiv.appendChild(companyP);
           
           // Create separate period element
@@ -300,7 +307,14 @@ function updateExperience(document, markdown) {
           jobDiv.appendChild(periodP);
         } else {
           // No date part found, use whole line
-          companyP.textContent = companyName + (restOfLine ? ' ' + restOfLine : '');
+          companySpanName.textContent = companyName;
+          companyP.appendChild(companySpanName);
+          
+          if (restOfLine) {
+            companySpanLocation.textContent = restOfLine.trim();
+            companyP.appendChild(companySpanLocation);
+          }
+          
           jobDiv.appendChild(companyP);
         }
       } else {
