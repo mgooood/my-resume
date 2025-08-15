@@ -364,6 +364,7 @@ main {
 .pdf-container {
   text-align: center;
   margin: var(--spacing-md) 0;
+  padding-bottom: var(--spacing-lg);
 }
 
 .pdf-button {
